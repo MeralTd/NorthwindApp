@@ -2,10 +2,10 @@
   React/Redux
 # To Run the Project
   - git clone https://github.com/MeralTd/NorthwindApp.git
-  - npm install
   - /cd api
     - json-server --watch db.json
   - /cd northwind-redux
+    - npm install
     - npm start
 # Screenshots
 ![1](https://user-images.githubusercontent.com/26633192/105721531-bc2e7a00-5f35-11eb-984a-c7ad32dc64fe.PNG)
